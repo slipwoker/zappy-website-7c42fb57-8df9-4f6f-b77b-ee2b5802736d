@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+אבי בורגר מגיש המבורגרים ביתיים איכותיים שיגרמו לכם לחזור שוב ושוב. טעם אמיתי, חומרים טריים ואווירה שמזמינה את כל המשפחה. בואו לגלות למה אנחנו המסעדה שכולם מדברים עליה!
+
+### מנות מומלצות
+https://example.com/features
+גלו את המנות המומלצות של אבי בורגר — המבורגרים ביתיים איכותיים עם שילובי טעמים שלא תמצאו בשום מקום אחר. מהקלאסי ועד המיוחד, כל ביס הוא חוויה. הזמינו עוד היום!
+
+### אודות
+https://example.com/about
+מי עומד מאחורי אבי בורגר? הכירו את הצוות שמכין כל המבורגר עם אהבה ומסירות. מסעדה שנבנתה על ערכים של איכות, טריות ושירות חם — כי אצלנו כל לקוח הוא אורח יקר.
+
+### צור קשר
+https://example.com/contact
+רוצים להזמין מקום, לשאול שאלה או סתם להגיד שלום? צרו קשר עם מסעדת המבורגרים אבי בורגר ונשמח לעזור. אנחנו כאן בשבילכם — כי ארוחה טובה מתחילה בשיחה אחת קטנה.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
